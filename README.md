@@ -19,5 +19,7 @@ The analysis identified Lagos as the highest-revenue city, generating 218,890 in
 ## Recommendations
 ZoomRide should consider investing in high-performing cities, monitor revenue and customer demand, and improve data quality to support accurate reporting and better business decisions.
 
+## The link to the SQL code is "https://onecompiler.com/mysql/455s6qzxs".
+
 ## Conclusion
 This project demonstrates how SQL can be used to clean, analyze, and interpret trip data to generate actionable business insights.
